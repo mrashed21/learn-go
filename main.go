@@ -24,4 +24,5 @@ func main() {
 	// call function from another file
 	function()
 	variable()
+	ifElse()
 }
