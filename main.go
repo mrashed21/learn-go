@@ -22,8 +22,9 @@ func main() {
 	// fmt.Printf("City: %s\n", city)
 
 	// call function from another file
-	function()
-	variable()
-	ifElse()
-	switchCase()
+	// function()
+	// variable()
+	// ifElse()
+	// switchCase()
+	forLoop()
 }
